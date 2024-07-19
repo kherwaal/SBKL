@@ -1,6 +1,6 @@
-# ᱡᱚᱦᱟᱨ
+#ᱡᱚᱦᱟᱨ
 
-# SorenBakhol Keyboard Layout(SBKL)
+# SorenBakhol Keyboard Layout (SBKL)
 
 Welcome to the Santali Keyboard Layout! This custom keyboard layout is designed to enhance your typing experience in the Santali script. It is remapped for better and faster typing, making it ideal for daily use.
 
@@ -15,9 +15,11 @@ Welcome to the Santali Keyboard Layout! This custom keyboard layout is designed 
 ### Windows
 
 1. **Download the Installer:**
-   - [Setup.exe](./setup.exe)
+   - Click on the `Code` button and select `Download ZIP`.
+   - Extract the downloaded ZIP file.
 
 2. **Run the Installer:**
+   - Navigate to the extracted folder.
    - Double-click the `setup.exe` file.
    - The system will automatically confirm the suitable version for your machine.
    - Follow the on-screen instructions to complete the installation.
