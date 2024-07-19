@@ -1,3 +1,5 @@
+#ᱡᱚᱦᱟᱨ
+
 # SorenBakhol Keyboard Layout (SBKL)
 
 Welcome to the Santali Keyboard Layout! This custom keyboard layout is designed to enhance your typing experience in the Santali script. It is remapped for better and faster typing, making it ideal for daily use.
@@ -56,7 +58,7 @@ This keyboard layout is free to use for personal and educational purposes. Redis
 
 If you encounter any issues or have suggestions for improvement, please contact [here](https://ig.me/m/sorenbakholofficial).
 
-Thank you for using the Santali Keyboard Layout!
+Thank you for using the SorenBakhol Keyboard Layout(SBKL)!
 
 ---
 
