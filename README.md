@@ -1,4 +1,4 @@
-# <span style="color:blue; font-size: 48px;" >ᱡᱚᱦᱟᱨ</span>
+# <span style="color:blue" >ᱡᱚᱦᱟᱨ</span>
 
 # SorenBakhol Keyboard Layout (SBKL)
 
