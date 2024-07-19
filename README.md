@@ -1,5 +1,3 @@
-#ᱡᱚᱦᱟᱨ
-
 # SorenBakhol Keyboard Layout (SBKL)
 
 Welcome to the Santali Keyboard Layout! This custom keyboard layout is designed to enhance your typing experience in the Santali script. It is remapped for better and faster typing, making it ideal for daily use.
@@ -36,10 +34,17 @@ After installing and activating the keyboard layout, you can switch to it using 
 
 The key mapping images are included in this package to help you understand the layout and make typing easier:
 
-- Default Layout
-- Caps Lock Layout
-- Ctrl + Alt Layout
-- Ctrl + Alt + Shift Layout
+- **Default Layout:**
+  ![Default Layout](keyMapping%20Img/Default_Layout.png)
+
+- **Caps Lock Layout:**
+  ![Caps Lock Layout](keyMapping%20Img/Caps_Lock_Layout.png)
+
+- **Ctrl + Alt Layout:**
+  ![Ctrl + Alt Layout](keyMapping%20Img/Ctrl_Alt_Layout.png)
+
+- **Ctrl + Alt + Shift Layout:**
+  ![Ctrl + Alt + Shift Layout](keyMapping%20Img/Ctrl_Alt_Shift_Layout.png)
 
 Refer to these images for a visual guide to the key mappings.
 
@@ -49,7 +54,7 @@ This keyboard layout is free to use for personal and educational purposes. Redis
 
 ## Feedback and Support
 
-If you encounter any issues or have suggestions for improvement, please contact [https://ig.me/m/sorenbakholofficial].
+If you encounter any issues or have suggestions for improvement, please contact [here](https://ig.me/m/sorenbakholofficial).
 
 Thank you for using the Santali Keyboard Layout!
 
