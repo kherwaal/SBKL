@@ -39,6 +39,9 @@ The key mapping images are included in this package to help you understand the l
 - **Default Layout:**
   ![Default Layout](keyMapping%20Img/Default_Layout.png)
 
+- **Shift Layout:**
+  ![Caps Lock Layout](keyMapping%20Img/Shift_Layout.png)
+
 - **Caps Lock Layout:**
   ![Caps Lock Layout](keyMapping%20Img/Caps_Lock_Layout.png)
 
