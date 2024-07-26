@@ -34,9 +34,10 @@ After installing and activating the keyboard layout, you can switch to it using 
 
 ## Key Mapping
 
-1. **Alphabets:**
+2. **Digits (ᱮᱞ)**
+3. **Letters (ᱟᱠᱷᱚᱨ):**
 
-| `Output` | `Key` |
+   | `Output` | `Key` |
 |--------|-----|
 | ᱚ | o |
 | ᱛ | t |
@@ -68,8 +69,12 @@ After installing and activating the keyboard layout, you can switch to it using 
 | ᱵ | b / B |
 | ᱶ | v / V |
 | ᱷ | H |
+5. **Modifier letters (ᱴᱩᱰᱟᱹᱜ ᱪᱤᱠᱤ)**
+6. **Punctuation**
 
-2. **Numerical:**
+
+
+2. **Digits:**
 
 The key mapping images are included in this package to help you understand the layout and make typing easier:
 
