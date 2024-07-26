@@ -35,8 +35,7 @@ After installing and activating the keyboard layout, you can switch to it using 
 ## Key Mapping
 
 1. **Alphabets:**
-
-- | `Output` | `Key` |
+| `Output` | `Key` |
 |--------|-----|
 | ᱚ | o |
 | ᱛ | t |
