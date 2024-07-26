@@ -34,6 +34,34 @@ After installing and activating the keyboard layout, you can switch to it using 
 
 ## Key Mapping
 
+| `Output` | `Key` |
+|--------|-----|
+| ᱚ | o |
+| ᱛ | t |
+| ᱜ | g |
+| ᱝ | f |
+| ᱞ | l/L |
+| ᱟ | a/A |
+| ᱠ | k/K |
+| ᱡ | j/J |
+| ᱢ | m/M |
+| ᱣ | w/W |
+| ᱤ | i/I |
+| ᱥ | s/S |
+| ᱦ | h |
+| ᱧ | q/Q |
+| ᱨ | r |
+| ᱩ | M/m |
+| ᱪ | Q/q |
+| ᱫ | d |
+| ᱬ | Z |
+| ᱭ | y |
+| ᱮ | e/E |
+| ᱯ | p/P |
+| ᱰ | D |
+| ᱱ | n |
+| ᱲ | z |
+
 The key mapping images are included in this package to help you understand the layout and make typing easier:
 
 - **Default Layout:**
