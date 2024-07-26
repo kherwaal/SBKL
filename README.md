@@ -40,19 +40,19 @@ After installing and activating the keyboard layout, you can switch to it using 
 | ᱛ | t |
 | ᱜ | g |
 | ᱝ | f |
-| ᱞ | l/L |
-| ᱟ | a/A |
-| ᱠ | k/K |
-| ᱡ | j/J |
-| ᱢ | m/M |
-| ᱣ | w/W |
-| ᱤ | i/I |
-| ᱥ | s/S |
+| ᱞ | l / L |
+| ᱟ | a / A |
+| ᱠ | k / K |
+| ᱡ | j / J |
+| ᱢ | m / M |
+| ᱣ | w / W |
+| ᱤ | i / I |
+| ᱥ | s / S |
 | ᱦ | h |
-| ᱧ | q/Q |
+| ᱧ | q / Q |
 | ᱨ | r |
-| ᱩ | M/m |
-| ᱪ | q/Q |
+| ᱩ | M / m |
+| ᱪ | q / Q |
 | ᱫ | d |
 | ᱬ | Z |
 | ᱭ | y/Y |
