@@ -37,7 +37,7 @@ After installing and activating the keyboard layout, you can switch to it using 
 2. **Digits (ᱮᱞ)**
 3. **Letters (ᱟᱠᱷᱚᱨ):**
 
-   | `Output` | `Key` |
+| `Output` | `Key` |
 |--------|-----|
 | ᱚ | o |
 | ᱛ | t |
