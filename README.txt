@@ -1,8 +1,8 @@
 # ᱡᱚᱦᱟᱨ
 
-# Santali Keyboard Layout
+# SorenBakhol Keyboard Layout (SBKL)
 
-Welcome to the Santali Keyboard Layout! This custom keyboard layout is designed to enhance your typing experience in the Santali script. It is remapped for better and faster typing, making it ideal for daily use.
+Welcome to the SorenBakhol Keyboard Layout! This custom keyboard layout is designed to enhance your typing experience in the Santali script. It is remapped for better and faster typing, making it ideal for daily use.
 
 ## Features
 
@@ -15,9 +15,11 @@ Welcome to the Santali Keyboard Layout! This custom keyboard layout is designed 
 ### Windows
 
 1. **Download the Installer:**
-   - [Setup.exe](./setup.exe)
+   - Click on the `Code` button and select `Download ZIP`.
+   - Extract the downloaded ZIP file.
 
 2. **Run the Installer:**
+   - Navigate to the extracted folder.
    - Double-click the `setup.exe` file.
    - The system will automatically confirm the suitable version for your machine.
    - Follow the on-screen instructions to complete the installation.
@@ -34,22 +36,22 @@ After installing and activating the keyboard layout, you can switch to it using 
 
 The key mapping images are included in this package to help you understand the layout and make typing easier:
 
-- Default Layout
-- Caps Lock Layout
-- Ctrl + Alt Layout
-- Ctrl + Alt + Shift Layout
-
-Refer to these images for a visual guide to the key mappings.
-
 ## License
 
 This keyboard layout is free to use for personal and educational purposes. Redistribution or sale of this layout to other users is strictly prohibited.
 
 ## Feedback and Support
 
-If you encounter any issues or have suggestions for improvement, please contact [https://ig.me/m/sorenbakholofficial].
+If you encounter any issues or have suggestions for improvement, please contact [here](https://ig.me/m/sorenbakholofficial).
 
-Thank you for using the Santali Keyboard Layout!
+## Social
+
+   - YouTube (https://youtube.com/@sorenbakhol)
+   - X (https://x.com/sorenbakhol)
+   - Instagram (https://instagram.com/sorenbakholofficial)
+   - Facebook (https://facebook.com/sorenbakholofficial)
+
+Thank you for using the SorenBakhol Keyboard Layout (SBKL)!
 
 ---
 
