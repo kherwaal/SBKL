@@ -100,7 +100,7 @@ After installing and activating the keyboard layout, you can switch to it using 
 | `Output` | `Key` |
 |--------|-----|
 | ᱾ | \ |
-| ᱿ | | / `Shift + &#92; |
+| ᱿ | | / Shift + &#92 |
 
 The key mapping images are included in this package to help you understand the layout and make typing easier:
 
