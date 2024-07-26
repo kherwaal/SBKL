@@ -83,12 +83,20 @@ After installing and activating the keyboard layout, you can switch to it using 
 | ᱵ | b / B |
 | ᱶ | v / V |
 | ᱷ | H |
-5. **Modifier letters (ᱴᱩᱰᱟᱹᱜ ᱪᱤᱠᱤ)**
-6. **Punctuation**
 
+3. **Modifier letters (ᱴᱩᱰᱟᱹᱜ ᱪᱤᱠᱤ)**
 
+| `Output` | `Key` |
+|--------|-----|
+| ᱸ | N / Shift + n |
+| ᱹ | G / Shift + g |
+| ᱺ | X / Shift + x |
+| ᱻ | R / Shift + r |
+| ᱼ | F / Shift + f |
+| ᱽ | x |
 
-2. **Digits:**
+4. **Punctuation**
+
 
 The key mapping images are included in this package to help you understand the layout and make typing easier:
 
