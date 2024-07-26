@@ -52,15 +52,20 @@ After installing and activating the keyboard layout, you can switch to it using 
 | ᱧ | q/Q |
 | ᱨ | r |
 | ᱩ | M/m |
-| ᱪ | Q/q |
+| ᱪ | q/Q |
 | ᱫ | d |
 | ᱬ | Z |
-| ᱭ | y |
+| ᱭ | y/Y |
 | ᱮ | e/E |
 | ᱯ | p/P |
 | ᱰ | D |
 | ᱱ | n |
 | ᱲ | z |
+| ᱳ | O |
+| ᱴ | T |
+| ᱵ | b/B |
+| ᱶ | v/V |
+| ᱷ | H |
 
 The key mapping images are included in this package to help you understand the layout and make typing easier:
 
