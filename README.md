@@ -34,6 +34,8 @@ After installing and activating the keyboard layout, you can switch to it using 
 
 ## Key Mapping
 
+1. **Alphabets:**
+
 | `Output` | `Key` |
 |--------|-----|
 | ᱚ | o |
@@ -66,6 +68,8 @@ After installing and activating the keyboard layout, you can switch to it using 
 | ᱵ | b / B |
 | ᱶ | v / V |
 | ᱷ | H |
+
+2. **Numerical:**
 
 The key mapping images are included in this package to help you understand the layout and make typing easier:
 
