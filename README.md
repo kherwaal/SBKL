@@ -34,8 +34,22 @@ After installing and activating the keyboard layout, you can switch to it using 
 
 ## Key Mapping
 
-2. **Digits (ᱮᱞ)**
-3. **Letters (ᱟᱠᱷᱚᱨ):**
+1. **Digits (ᱮᱞ)**
+ 
+| `Output` | `Key` |
+|--------|-----|
+| ᱐ | 0 |
+| ᱑ | 1 |
+| ᱒ | 2 |
+| ᱓ | 3 |
+| ᱔ | 4 |
+| ᱕ | 5 |
+| ᱖ | 6 |
+| ᱗ | 7 |
+| ᱘ | 7 |
+| ᱙ | 9 |
+
+2. **Letters (ᱟᱠᱷᱚᱨ):**
 
 | `Output` | `Key` |
 |--------|-----|
