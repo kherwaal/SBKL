@@ -37,19 +37,19 @@ After installing and activating the keyboard layout, you can switch to it using 
 The key mapping images are included in this package to help you understand the layout and make typing easier:
 
 - **Default Layout:**
-  ![Default Layout](keyMapping%20Img/Default_Layout.png)
+  ![Default Layout](Key%20Mapping%20Img/DEFAULT_LAYOUT.png)
 
 - **Shift Layout:**
-  ![Caps Lock Layout](keyMapping%20Img/Shift_Layout.png)
+  ![Caps Lock Layout](Key%20Mapping%20Img/SHIFT_LAYOUT.png)
 
 - **Caps Lock Layout:**
-  ![Caps Lock Layout](keyMapping%20Img/Caps_Lock_Layout.png)
+  ![Caps Lock Layout](Key%20Mapping%20Img/CAPS_LOCK_LAYOUT.png)
 
 - **Ctrl + Alt Layout:**
-  ![Ctrl + Alt Layout](keyMapping%20Img/Ctrl_Alt_Layout.png)
+  ![Ctrl + Alt Layout](Key%20Mapping%20Img/CTRL+ALT_LAYOUT.png)
 
 - **Ctrl + Alt + Shift Layout:**
-  ![Ctrl + Alt + Shift Layout](keyMapping%20Img/Ctrl_Alt_Shift_Layout.png)
+  ![Ctrl + Alt + Shift Layout](Key%20Mapping%20Img/CTRL+ALT+SHIFT_LAYOUT.png)
 
 Refer to these images for a visual guide to the key mappings.
 
