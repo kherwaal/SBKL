@@ -68,8 +68,8 @@ After installing and activating the keyboard layout, you can switch to it using 
 | ᱦ | h |
 | ᱧ | q / Q |
 | ᱨ | r |
-| ᱩ | M / m |
-| ᱪ | q / Q |
+| ᱩ | u / U |
+| ᱪ | c / C |
 | ᱫ | d |
 | ᱬ | Z |
 | ᱭ | y / Y |
