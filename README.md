@@ -44,7 +44,7 @@ After installing and activating the keyboard layout, you can switch to it using 
 | ᱕ | 5 |
 | ᱖ | 6 |
 | ᱗ | 7 |
-| ᱘ | 7 |
+| ᱘ | 8 |
 | ᱙ | 9 |
 
 2. **Letters (ᱟᱠᱷᱚᱨ):**
