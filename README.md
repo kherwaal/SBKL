@@ -1,5 +1,8 @@
 # SorenBakhol Keyboard Layout (SBKL)
 
+[View Additional README](ᱯᱟᱲᱦᱟᱣᱢᱮ.sat.md)
+
+
 Welcome to the SorenBakhol Keyboard Layout! This custom keyboard layout is designed to enhance your typing experience in the Santali script. It is remapped for better and faster typing, making it ideal for daily use.
 
 ## Features
